@@ -10,3 +10,4 @@ My Solution:
 The macro updates the count in real-time and adjusts for dilution.  You can also simply type the numbers into the boxes to do the calculation after counting using other method.  
 This is also great for doing a quick manual check of an automated count. You can count a few fields and know right away if the numbers correlate.
 
+![Screenshot](https://github.com/Plasbot/ManualCellCounter/blob/master/kova_cell_counter.jpg?raw=true)
